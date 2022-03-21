@@ -14,6 +14,7 @@ Pink
 Grey
 Yellow
 Sky Blue
+Orange
 ...................................................................
 Anushka Sharma
 Kohili
