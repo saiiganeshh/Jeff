@@ -14,3 +14,10 @@ Pink
 Grey
 Yellow
 Sky Blue
+...................................................................
+Anushka Sharma
+Kohili
+Dravid
+Sehwag
+Dhoni
+Sachin
